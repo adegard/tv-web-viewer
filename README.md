@@ -1,3 +1,5 @@
+[![Buy me a coffee](https://cdn.buymeacoffee.com/buttons/v2/default-red.png)](https://www.buymeacoffee.com/adegard)
+
 # TV Web Viewer
 
 An Android TV / Fire TV web viewer with built-in ad blocking, remote-friendly
@@ -50,3 +52,7 @@ adb install -r release/tv-web-viewer-debug.apk
 - **FF / RW**: scroll the page
 - **Menu**: toggle cursor mode on/off
 - **Top-right corner click**: set the startup page
+
+---
+
+For an overview of all my other projects, see https://adegard.github.io/blog/
